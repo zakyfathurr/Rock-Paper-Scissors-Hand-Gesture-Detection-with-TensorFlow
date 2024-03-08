@@ -1,1 +1,1 @@
-# rock-paper-scissor-detection-machine-learning-using-tensorflow
+# Rock Paper Scissors Hand Gesture Detection with TensorFlow
